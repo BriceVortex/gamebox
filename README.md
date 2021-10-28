@@ -1,4 +1,4 @@
-# A blog from scratch 1.0 / Laravel
+# Blog from scratch v1.0 / Laravel
 
 *Gamebox*
 
